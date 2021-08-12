@@ -1,0 +1,17 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "serve": "docsify serve docs --open=true"
+  },
+  "author": "Eleven",
+  "license": "ISC",
+  "devDependencies": {
+    "docsify-cli": "^4.4.3"
+  }
+}
